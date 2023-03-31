@@ -1,0 +1,11 @@
+*.idea
+*.pyc
+*.vscode
+.env
+venv
+env
+.vscode
+dummy.
+/home/ubuntu/vdezi_ai_image_optimizer/app/services/image_optimizer/model/brisq
+*.pth
+model/
